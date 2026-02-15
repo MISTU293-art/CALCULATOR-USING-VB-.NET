@@ -38,7 +38,7 @@ This is a simple calculator application developed using **VB.NET Windows Forms**
 
 Click on:
 
-Code → 
+Download button above ⬆️ 
 
 Or use Git:
 
