@@ -40,7 +40,7 @@ Click on:
 
 Download button above ⬆️ 
 
-Or use Git:
+Or use Git: cloning 
 
 ```bash
 git clone https://github.com/yourusername/calculator-app.git
